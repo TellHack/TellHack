@@ -19,6 +19,20 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tellhack&label=Profile%20views&color=0e75b6&style=flat" alt="tellhack" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tellhack" alt="tellhack" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 📷 I’m make for you :3 [CamPhish](https://github.com/TellHack/CamPhish)
+
+- 😊![Uploading image.png…]()
+ I’m make for You:3 [vega-hack-roblox](https://github.com/TellHack/vega-hack-roblox)
+
+- 🛜 I’m make for you:3 [ddos-wifi](https://github.com/TellHack/ddos-wifi)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
