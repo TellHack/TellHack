@@ -25,11 +25,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📷 I’m make for you :3 [CamPhish](https://github.com/TellHack/CamPhish)
+- 📷 I make for you :3 [CamPhish](https://github.com/TellHack/CamPhish)
 
-- 😊I’m make for You:3 [vega-hack-roblox](https://github.com/TellHack/vega-hack-roblox)
+- 😊I make for You :3 [vega-hack-roblox](https://github.com/TellHack/vega-hack-roblox)
 
-- 🛜 I’m make for you:3 [ddos-wifi](https://github.com/TellHack/ddos-wifi)
+- 🛜 I make for you :3 [ddos-wifi](https://github.com/TellHack/ddos-wifi)
+
+- 🙂 i make for you :3 [MAS](https://github.com/TellHack/aktifin-windows-gratis)
 
 
 
