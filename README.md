@@ -68,6 +68,6 @@ https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/PAZ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PAZ" /></a></p><br><br>
 
-<p>   </p>
+<p>    </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=TellHack&color=blue)
