@@ -36,7 +36,14 @@
 
 - 📷 I make for you :3 >>>CamPhish<<<
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=CamPhish)](https://github.com/TellHack/CamPhish)
+<a href="https://github.com/Kiran1689/CamPhish">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=CamPhish&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
@@ -44,15 +51,37 @@
 
 - 😊I make for You :3 >>>Roblox Hack<<<
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=vega-hack-roblox)](https://github.com/TellHack/vega-hack-roblox)
+<a href="https://github.com/Kiran1689/vega-hack-roblox">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=vega-hack-roblox&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 - 🛜 I make for you :3 >>>ddos-wifi<<<
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=ddos-wifi)](https://github.com/TellHack/ddos-wifi)
+<a href="https://github.com/Kiran1689/ddos-wifi">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=ddos-wifi&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 - 🙂 I make for you :3 >>>MAS<<<
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=aktifin-windows-gratis)](https://github.com/TellHack/aktifin-windows-gratis)
+
+<a href="https://github.com/Kiran1689/aktifin-windows-gratis">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=aktifin-windows-gratis&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 
 
