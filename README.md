@@ -60,4 +60,4 @@
 
 https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2
 
-![image title](https://rushter.com/counter.svg)
+![image title](https://komarev.com/ghpvc/?Tellhack&color=green)
