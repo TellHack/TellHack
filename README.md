@@ -70,7 +70,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tellhack&show_icons=true&theme=transparent)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TellHack&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TellHack&theme=dark&hide_border=true)](https://github.com/TellHack)
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
