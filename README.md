@@ -52,7 +52,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/PAZ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="PAZ" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tellhack&show_icons=true&locale=en&layout=compact" alt="tellhack" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TellHack&hide_progress=true&theme=transparent)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tellhack&show_icons=true&theme=transparent)
 
