@@ -25,19 +25,19 @@
 
 - 📷 I make for you :3 >>>CamPhish<<<
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=CamPhish)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=CamPhish)](https://github.com/TellHack/CamPhish)
 
 - 😊I make for You :3 >>>Roblox Hack<<<
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=vega-hack-roblox)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=vega-hack-roblox)](https://github.com/TellHack/vega-hack-roblox)
 
 - 🛜 I make for you :3 >>>ddos-wifi<<<
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=ddos-wifi)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=ddos-wifi)](https://github.com/TellHack/ddos-wifi)
 
 - 🙂 I make for you :3 >>>MAS<<<
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=aktifin-windows-gratis)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TellHack&repo=aktifin-windows-gratis)](https://github.com/TellHack/aktifin-windows-gratis)
 
 
 
