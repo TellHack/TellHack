@@ -42,3 +42,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tellhack&show_icons=true&locale=en" alt="tellhack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tellhack&" alt="tellhack" /></p>
+
+https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2
