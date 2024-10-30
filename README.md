@@ -69,3 +69,6 @@ https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2
 <p>    </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=TellHack&color=blue)
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=004FF9&height=100&section=footer"/>
+</p>
