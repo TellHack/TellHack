@@ -60,4 +60,4 @@
 
 https://github.com/user-attachments/assets/afb9292f-5d8a-4d6d-8156-7325c9c405d2
 
-![Visitor Count](https://profile-counter.glitch.me/TellHack/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=TellHack&color=blue)
